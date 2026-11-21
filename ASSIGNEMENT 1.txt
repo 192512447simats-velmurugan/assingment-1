@@ -5,7 +5,6 @@ Student Name
 Register Number
 Course
 Assignment
-VIJAY SANKAR D
 1972260080
 CSA08 – Python Programming
 1 – Payment Calculator
@@ -14,7 +13,6 @@ Total Marks
 Ksheera Village Milk Producers’ Co-operative
 Python implementation, analysis, validation and design challenge
 Page 1
-CSA08 – Assignment 1 | VIJAYSANKAR D | 1972260080
 Assignment Overview
 This report follows the supplied assignment brief. It covers Tasks 1–12, including Python concepts, calculations,
 functions, modules, algorithms, testing, benchmarking and the seasonal-rate design challenge.
